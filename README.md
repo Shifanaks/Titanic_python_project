@@ -77,3 +77,7 @@ Jupyter Notebook for interactive analysis
 ## Jupyter Code 
 
  - <a href="https://github.com/Shifanaks/Titanic_python_project/blob/main/Titanic_python_project.ipynb">Result Jupyter Code</a>
+
+ ## Report
+  - <a href="https://github.com/Shifanaks/Titanic_python_project/blob/main/Titanic%20Report.pdf">Final Report</a>
+
